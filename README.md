@@ -21,8 +21,8 @@ La aplicación "Amigo Secreto" cuenta con las siguientes funcionalidades:
 Sigue estos sencillos pasos para realizar un sorteo de "Amigo Secreto":
 
 1.  **Abre el archivo `index.html`** en tu navegador web preferido.
+![4r9gia72jvdd1](https://github.com/user-attachments/assets/017f960e-a23b-4daf-b22b-d69d2d163f51)
 
-    [**Aquí podrías insertar una captura de pantalla mostrando la página inicial de la aplicación.**  Por ejemplo, una imagen llamada `screenshot-inicio.png` en la carpeta `assets` y referenciarla así: `![Captura de pantalla de la página inicial](assets/screenshot-inicio.png)`]
 
 2.  **Ingresa el nombre de un amigo** en el campo de texto que dice "Escribe un nombre".
 
