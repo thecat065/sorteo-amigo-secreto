@@ -76,9 +76,6 @@ Aunque la aplicación cumple con los requisitos básicos, aquí hay algunas idea
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar la aplicación, encuentras errores o quieres añadir nuevas funcionalidades, no dudes en crear un "pull request" o abrir un "issue" en este repositorio.
 
 ¡Espero que disfrutes usando la aplicación "Amigo Secreto" para tus sorteos! 🎉
-content_copy
-download
-Use code with caution.
-Markdown
+
 
 
