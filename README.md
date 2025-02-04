@@ -21,28 +21,28 @@ La aplicación "Amigo Secreto" cuenta con las siguientes funcionalidades:
 Sigue estos sencillos pasos para realizar un sorteo de "Amigo Secreto":
 
 1.  **Abre el archivo `index.html`** en tu navegador web preferido.
-![4r9gia72jvdd1](https://github.com/user-attachments/assets/017f960e-a23b-4daf-b22b-d69d2d163f51)
+![image](https://github.com/user-attachments/assets/729b8cc2-aed0-435e-93ba-3d611e51cfc1)
 
 
 2.  **Ingresa el nombre de un amigo** en el campo de texto que dice "Escribe un nombre".
+![image](https://github.com/user-attachments/assets/8e17c48e-dea2-40a5-82f8-dcb4d1bb62bd)
 
-    [**Aquí podrías insertar una captura de pantalla mostrando el campo de texto con un nombre ingresado.** Por ejemplo, `screenshot-input-nombre.png`]
+
 
 3.  **Haz clic en el botón "Añadir"** o presiona la tecla **"Enter"**. El nombre que ingresaste se agregará a la lista que aparece debajo.
 
-    [**Aquí podrías insertar una captura de pantalla mostrando la lista de nombres actualizada después de añadir un nombre.** Por ejemplo, `screenshot-lista-actualizada.png`]
+   ![image](https://github.com/user-attachments/assets/dd37393f-624b-4d91-a72a-eb3738ff9459)
+
 
 4.  **Repite los pasos 2 y 3** para agregar todos los nombres de los participantes del sorteo.
 
 5.  **Cuando tengas todos los nombres en la lista, haz clic en el botón "Sortear amigo".**
 
-    [**Aquí podrías insertar una captura de pantalla del botón "Sortear amigo" listo para ser presionado.** Por ejemplo, `screenshot-boton-sortear.png`]
 
 6.  **¡El resultado del sorteo se mostrará en la pantalla!**  Verás el nombre del "Amigo Secreto" seleccionado aleatoriamente.
 
-    [**Aquí podrías insertar una captura de pantalla mostrando el resultado del sorteo, con el mensaje "¡Amigo secreto sorteado es: [Nombre]!".** Por ejemplo, `screenshot-resultado-sorteo.png`]
+![image](https://github.com/user-attachments/assets/50d1817d-9da8-49de-a136-0be89c1a7e66)
 
-    [**Opcionalmente, podrías insertar un enlace a un video corto (si lo grabaste) mostrando el proceso completo de uso de la aplicación.** Por ejemplo: `[Mira un video demostrativo aquí](link-al-video-demostrativo)`]
 
 ## 🛠 Tecnologías Utilizadas
 
@@ -81,16 +81,4 @@ download
 Use code with caution.
 Markdown
 
-Para usar este README:
 
-Crea un archivo llamado README.md en la raíz de tu proyecto "Amigo Secreto" (en la misma carpeta donde están index.html, style.css y app.js).
-
-Copia y pega el contenido del código Markdown de arriba en tu archivo README.md.
-
-Guarda el archivo README.md.
-
-Captura pantallas de tu aplicación en funcionamiento, siguiendo las indicaciones dentro del README (donde dice "[Aquí podrías insertar una captura de pantalla...]"). Guarda estas imágenes en una carpeta llamada assets dentro de tu proyecto (si ya no la tienes, créala). Asegúrate de que los nombres de los archivos de imagen coincidan con los nombres que usaste en el README (por ejemplo, screenshot-inicio.png, screenshot-input-nombre.png, etc.). Si grabaste un video, sube el video a alguna plataforma (YouTube, Vimeo, etc.) y reemplaza el texto [Mira un video demostrativo aquí](link-al-video-demostrativo) con el enlace real al video.
-
-Abre el archivo README.md con un editor de Markdown (como Visual Studio Code, Atom, o incluso un editor de texto plano para ver el texto sin formato). Si estás usando un editor Markdown, podrás previsualizar cómo se verá el README renderizado (con los estilos y las imágenes). Si lo abres en GitHub, GitLab, etc., se mostrará automáticamente formateado.
-
-¡Listo! Ahora tienes un README profesional y completo para tu proyecto "Amigo Secreto". Esto hará que tu proyecto sea mucho más comprensible y accesible para otras personas que quieran entenderlo o usarlo.
